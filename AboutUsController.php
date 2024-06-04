@@ -6,7 +6,7 @@ use CodeIgniter\Controller;
 
 class AboutUsController extends Controller
 {
-    public function About_Us()
+    public function About()
     {
         return view('About_Us');
     }
