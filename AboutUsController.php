@@ -6,8 +6,8 @@ use CodeIgniter\Controller;
 
 class AboutUsController extends Controller
 {
-    public function About_ps()
+    public function About_Us()
     {
-        return view('About_ps');
+        return view('About_Us');
     }
 }
